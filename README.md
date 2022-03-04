@@ -2,9 +2,9 @@
   <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
 </a>
 
-# Gatsby Starter Contentful Homepage
+# Blessed Beyond Foundation
 
-Create a homepage using Gatsby and Contentful. This starter demonstrates how to use Contentful to build a homepage and can be customized to match your own visual branding.
+Site created using Gatsby and Contentful. This starter demonstrates how to use Contentful to build a homepage and can be customized to match your own visual branding.
 
 [View the Demo](https://gatsbycontentfulhomepage.gatsbyjs.io/)
 
